@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Keyboard glyph on a wallpaper-tinted circle (Material You colors on Android 12+). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <path
+        android:fillColor="@android:color/system_accent1_100"
+        android:pathData="M24,0a24,24 0,1 1,0 48a24,24 0,1 1,0 -48z" />
+    <path
+        android:fillColor="@android:color/system_accent1_700"
+        android:fillType="evenOdd"
+        android:pathData="M11,15h26a2,2 0,0 1,2 2v14a2,2 0,0 1,-2 2h-26a2,2 0,0 1,-2 -2v-14a2,2 0,0 1,2 -2zM13,19v3h3v-3zM18,19v3h3v-3zM23,19v3h3v-3zM28,19v3h3v-3zM33,19v3h2v-3zM13,24v3h3v-3zM33,24v3h2v-3zM18,24v3h3v-3zM23,24v3h3v-3zM28,24v3h3v-3zM17,29v2h14v-2z" />
+</vector>

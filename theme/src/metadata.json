@@ -1,0 +1,20 @@
+{
+    "format_version": 3,
+    "id": "rboardtemplatebyhndrk_materialyou_v1.6",
+    "is_light_theme": false,
+    "lock_key_border": false,
+    "name": "3dTemplateHndrk Material You",
+    "prefer_key_border": true,
+    "style_sheets": [
+        "colors.css",
+        "style_sheet_md2.css"
+    ],
+    "flavors": [
+        {
+            "type": "BORDER",
+            "style_sheets": [
+                "style_sheet_md2_border.css"
+            ]
+        }
+    ]
+}

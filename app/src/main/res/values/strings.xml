@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gboard Material You</string>
+    <string name="xposed_description">Keeps Material You template themes in Gboard in sync with your wallpaper colors.</string>
+    <string name="info_text">Gboard Material You is an Xposed module. It does nothing on its own: it runs inside Gboard once NPatch loads it.\n\nSetup:\n1. In the NPatch manager, patch your Morphe-built Gboard (local/manager mode) and install it with Shizuku.\n2. In NPatch, enable Gboard Material You for Gboard.\n3. Import and apply a Material You template theme (such as 3D_Template_MaterialYou.zip) with the Morphe theme importer.\n4. Force stop Gboard, then open the keyboard.\n\nThe theme then follows your wallpaper colors and dark mode.\n\nLogs: adb logcat -s GboardMaterialYou</string>
+</resources>
